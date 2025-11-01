@@ -14,15 +14,14 @@
 
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+##  <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Features](#features)
+4.  [Quick Start](#quick-start)
+5.  [Links](#links)
+6.  [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -35,7 +34,7 @@ Develop a sushi website showcasing popular food, trending sushi, and drinks usin
 - CSS 3
 - Vite
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
 👉 **CSS Variables**: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
 
@@ -61,7 +60,7 @@ all these while creating the sushi website with,
 * Newsletter Signup and Footer
 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
