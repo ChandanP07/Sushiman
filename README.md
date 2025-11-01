@@ -1,7 +1,7 @@
   <div>
     <img src="https://img.shields.io/badge/-HTML_5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html5" />
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="js" />
+    <img src="https://camo.githubusercontent.com/1b8c430d6cf86f1290ac020d39ac908cbe075ef22370ec8fb78a4aa77aed7fab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="js" />
   </div>
 
   <h3 align="center">Sushi Website</h3>
