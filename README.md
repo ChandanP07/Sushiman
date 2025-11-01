@@ -1064,6 +1064,4 @@ a {
 </details>
 
 
-## <a name="links">🔗 Links</a>
 
-Assets used in the project are [here](https://drive.google.com/file/d/1feqXd1mPKjdQDjd3l4hV_JcX-l1mJRor/view)
